@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="tz13_bigdata_commom" />
+        <module name="tz13_bigdata_es" />
+        <module name="tz13_bigdata_flume" />
+        <module name="tz13_bigdata_hbase" />
+        <module name="tz13_bigdata_kafka" />
+        <module name="tz13_bigdata_redis" />
+        <module name="tz13_bigdata_resource" />
+        <module name="tz13_bigdata_spark" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
